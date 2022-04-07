@@ -8,8 +8,8 @@ main:
     url: /search/
 
 docs:
-  - title: "대목차1"
-    children:
+  - title: "데이터"
+    children: "데이터 분석 및 전처리"
       - title: "Category"
         url: /categories/
       - title: "Tag"
