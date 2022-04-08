@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "dark", "air", "aqua", "contrast", "dark"
 locale                   : "ko-KR"
 title                    : "전투코딩"
 title_separator          : "|"
-subtitle                 : "small positive action"
+subtitle                 : "개발을 전투적으로"
 name                     : "swon95"
 description              : "개발새싹 심상원입니다"
 url                      : "https://swon95.github.io"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "상원's Blog"
+  name             : "Sangwon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "블로그 연습중 입니다"
+  bio              : "Studying AI/Data Science Development"
   location         : "South Korea"
   email            : 
   links:
